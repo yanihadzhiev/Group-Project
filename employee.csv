@@ -1,0 +1,11 @@
+﻿Employee_ID,First_Name,Last_Name,User_Name,Password,Email_Address,Role,Store_ID
+1,John,Doe,DoeJ,xxxxxx,DoeJ@xyz.com,Manager,1
+2,Ryan,Smith,SmithR,xxxxxx,SmithR@xyz.com,Manager,2
+3,Victor,Johnson,JohnsonV,xxxxxx,JohnsonV@xyz.com,Associate,3
+4,Mike,Jackson,JacksonM,xxxxxx,JacksonM@xyz.com,Associate,4
+5,John,Taylor,TaylorJ,xxxxxx,TaylorJ@xyz.com,Associate,2
+6,Chris,Paul,PaulC,xxxxxx,PaulC@xyz.com,Associate,6
+7,Gena,Kendall,KendallG,xxxxxx,KendallG@xyz.com,Associate,1
+8,Victoria,Dake,DakeV,xxxxxx,DakeV@xyz.com,Associate,3
+9,Jose,Rodrigus,RodrigusJ,xxxxxx,RodrigusJ@xyz.com,Associate,7
+10,Luis,Venla,VenlaL,xxxxxx,VenlaL@xyz.com,Associate,8
